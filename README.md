@@ -98,6 +98,9 @@ Our Tableau dashboard provides an interactive experience, allowing users to:
 
 5. View the evolution of audience ratings over time
 
+ <img width="1366" alt="Screenshot 2025-02-03 at 9 49 48 PM" src="https://github.com/user-attachments/assets/713458a8-4a2d-49d1-a824-e842c6e84969" />
+
+
 **Conclusion**
 
 The analysis provides deep insights into Netflix’s content strategy, audience preferences, and content growth trends. It highlights key takeaways for marketers, content creators, and industry analysts, helping shape strategic content decisions.
